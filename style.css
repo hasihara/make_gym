@@ -81,7 +81,7 @@ img {
   background-repeat: no-repeat;
 }
 #home {
-  background-image: url(images/workout2.jpg);
+  background-image: url("https://github.com/hasihara/make_gym/blob/main/images/workout2.jpg?raw=true");
   min-height: 100vh;
 }
 #home .page-title {
